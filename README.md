@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={JeongHanO})](https://solved.ac/{JeongHanO})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ojh980228})](https://solved.ac/{ojh980228})
